@@ -6,9 +6,9 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Wowchemy Research Group"
-subtitle: ""
-hero_media: welcome.jpg
+title: "The PEASE Lab"
+subtitle: "Population Estimation And Spatial Ecology"
+hero_media: lab_logo.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+Our research group focuses on applied wildlife conservation and management through the study of distributions and demographics of animal populations and communities. Please explore our research projects and reach out to lab members with questions or potential collaborations.
