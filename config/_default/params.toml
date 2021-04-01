@@ -93,7 +93,7 @@ address = {street = "1205 Lincoln Drive", city = "Carbondale", region = "IL", po
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.71232499601621", longitude = "-89.2223610389223"}, 
+coordinates = {latitude = "37.71232499601621", longitude = "-89.2223610389223"}
 
 # Directions for visitors to locate you.
 directions = "Office located in Ag 186B"
