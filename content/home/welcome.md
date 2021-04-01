@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "The PEASE Lab"
+title: "Population Estimation And Spatial Ecology"
 subtitle: "Population Estimation And Spatial Ecology"
 hero_media: lab_logo.jpg
 design:
