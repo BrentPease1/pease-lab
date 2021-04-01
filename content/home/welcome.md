@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Population Estimation And Spatial Ecology"
+title: "*P*opulation *E*stimation *A*nd *S*patial *E*cology"
 subtitle: "Population Estimation And Spatial Ecology"
 hero_media: lab_logo.jpg
 design:
