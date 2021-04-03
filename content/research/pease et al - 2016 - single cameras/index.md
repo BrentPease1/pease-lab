@@ -26,7 +26,7 @@ abstract: The use of camera traps as a tool for studying wildlife populations is
 summary: The use of camera traps as a tool for studying wildlife populations is commonplace. However, few have considered how the number of detections of wildlife differ depending upon the number of camera traps placed at cameras-sites, and how this impacts estimates of occupancy and community composition.
 
 tags:
-- Source Themes
+#- Source Themes
 featured: true
 
 links:
