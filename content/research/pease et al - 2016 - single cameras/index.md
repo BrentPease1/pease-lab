@@ -1,10 +1,9 @@
 ---
-title: "An example conference paper"
+title: "Single-Camera Trap Survey Designs Miss Detections: Impacts on Estimates of Occupancy and Community Metrics"
 authors:
-- admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
-doi: ""
+- Brent Pease
+date: "2016-11-30T00:00:00Z"
+doi: "https://doi.org/10.1371/journal.pone.0166689"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -43,7 +42,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: **Brent Pease**'
   focal_point: ""
   preview_only: false
 
