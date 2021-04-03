@@ -30,8 +30,8 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
+# - name: ''
+#   url: 
 url_pdf: https://doi.org/10.1371/journal.pone.0166689
 url_code: ''
 url_dataset: ''
@@ -64,8 +64,8 @@ projects: []
 slides:
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+#{{% callout note %}}
+#Click the *Cite* button above to demo the feature to enable visitors to import #publication metadata into their reference management software.
+#{{% /callout %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+#Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
