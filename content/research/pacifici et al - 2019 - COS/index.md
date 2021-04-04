@@ -33,7 +33,7 @@ featured: true
 links:
 # - name: ''
 #   url: 
-url_pdf: 
+url_pdf: https://drive.google.com/file/d/1uRlHgZpk1egqAtNclJ5f-2V-lVxAKtve/view?usp=sharing
 url_code: ''
 url_dataset: ''
 url_poster: ''
