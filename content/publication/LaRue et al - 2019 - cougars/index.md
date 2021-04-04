@@ -1,5 +1,5 @@
 ---
-title: "3. Increases in Midwestern cougars despite harvest in a source population"
+title: "Increases in Midwestern cougars despite harvest in a source population"
 authors:
 - Michelle A. LaRue
 - Clayton K. Nielsen

@@ -1,5 +1,5 @@
 ---
-title: "2. Resolving misaligned spatial data with integrated species distribution models"
+title: "Resolving misaligned spatial data with integrated species distribution models"
 authors:
 - Krishna Pacifici
 - Brian J. Reich

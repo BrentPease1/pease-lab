@@ -1,5 +1,5 @@
 ---
-title: "1. Single-Camera Trap Survey Designs Miss Detections: Impacts on Estimates of Occupancy and Community Metrics"
+title: "Single-Camera Trap Survey Designs Miss Detections: Impacts on Estimates of Occupancy and Community Metrics"
 authors:
 - Brent Pease
 - Clayton Nielsen
