@@ -33,7 +33,7 @@ featured: true
 links:
 # - name: ''
 #   url: 
-url_pdf: https://doi.org/10.1371/journal.pone.0166689
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
