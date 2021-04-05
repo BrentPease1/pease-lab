@@ -1,9 +1,9 @@
 ---
 title: "Single-Camera Trap Survey Designs Miss Detections: Impacts on Estimates of Occupancy and Community Metrics"
 authors:
-- Brent Pease
-- Clayton Nielsen
-- Eric Holzmueller
+- Brent S. Pease
+- Clayton K. Nielsen
+- Eric J. Holzmueller
 date: "2016-11-30T00:00:00Z"
 doi: "https://doi.org/10.1371/journal.pone.0166689"
 
