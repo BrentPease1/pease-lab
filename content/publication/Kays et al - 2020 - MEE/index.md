@@ -48,7 +48,7 @@ publication_short: In *Methods In Ecology and Evolution*
 abstract:
 
 # Summary. An optional shortened abstract.
-summary: Camera traps deployed in grids or stratified random designs are a well‐established survey tool for wildlife but there has been little evaluation of study design parameters. nWe used an empirical subsampling approach involving 2,225 camera deployments run at 41 study areas around the world to evaluate three aspects of camera trap study designand their influence on the estimation of three ecological metrics for mammals.
+summary: Camera traps deployed in grids or stratified random designs are a well‐established survey tool for wildlife but there has been little evaluation of study design parameters. We used an empirical subsampling approach involving 2,225 camera deployments run at 41 study areas around the world to evaluate three aspects of camera trap study design and their influence on the estimation of three ecological metrics for mammals.
 
 tags:
 #- Source Themes
