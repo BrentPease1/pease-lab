@@ -25,8 +25,8 @@ doi: "http://doi.org/10.5334/cstp.343"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Citizen Science: Theory and Practice*
-publication_short: In *Citizen Science: Theory and Practice*
+publication: In *Citizen Science Theory and Practice*
+publication_short: In *Citizen Science Theory and Practice*
 
 abstract: 
 
