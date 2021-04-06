@@ -5,7 +5,7 @@ title: Publications
   #   2: Compact
   #   3: Card
   #   4: Citation (publications only)
-view: 3
+view: 4
 
 header:
   caption: ""
