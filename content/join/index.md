@@ -1,5 +1,10 @@
 ---
 title: "Join our lab"
+share: false # Show social sharing links?
 ---
 
-Join our lab
+**Undergraduate students**: I am particularly interested in working with motivated undergraduates that are seeking research experience. While I have many projects that you could contribute to, I am open to exploring new ideas with you. Please send me a brief email with your current resume and we can discuss potential projects.    
+
+**Graduate students**: While I wish I could support endless graduate students, I am, of course, limited by available funding. When opportunities are available, I will post them to the Texas A&M Job Board and/or Ecolog. I also welcome general inquiries and may be able to find alternative funding sources for *exceptional* candidates. I am also open to working to develop competitive fellowship applications. If you think your research interests and career goals align with the direction of our work, please email me a short letter describing your experiences and research interests, along with your CV.     
+
+**Post-Doctoral Scholars**: I am especially interested in working with researchers that have strong quantitative and/or geospatial interests and skills. If you think the lab is a good fit, send me an email describing your interests along with a CV and we can find a time to chat.
