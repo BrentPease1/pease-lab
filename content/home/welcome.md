@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-Our research group focuses on applied wildlife conservation and management through the study of distributions and demographics of animal populations and communities. Please explore our research projects and reach out to lab members with questions or potential collaborations.
+**P**opulation **E**stimation **A**nd **S**patial **E**cology. Our research group focuses on applied wildlife conservation and management through the study of distributions and demographics of animal populations and communities. Please explore our research projects and reach out to lab members with questions or potential collaborations.
