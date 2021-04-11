@@ -81,4 +81,4 @@ Brent Pease is an assistant professor in the Forestry Program at Southern Illino
 
 
 
-#{{< icon name="download" pack="fas" >}} Download my current {{< staticref #"media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+
