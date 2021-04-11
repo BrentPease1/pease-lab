@@ -27,8 +27,13 @@
   name = "Teaching"
   url = "teaching"
   weight = 50
+  
+[[main]]
+  name = "Join"
+  url = "join"
+  weight = 60
 
 [[main]]
   name = "Contact"
   url = "contact"
-  weight = 60
+  weight = 70
