@@ -1,6 +1,7 @@
----
-# Files in this folder represent a Widget Page (homepage)
-type: widget_page
----
+widget: blank
+headless: true
+design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '1'
 
-Join our lab
+title: "Join our lab"
