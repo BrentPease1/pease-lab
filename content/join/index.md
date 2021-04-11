@@ -1,3 +1,4 @@
+---
 widget: blank
 headless: true
 design:
@@ -5,3 +6,5 @@ design:
   columns: '1'
 
 title: "Join our lab"
+
+---
