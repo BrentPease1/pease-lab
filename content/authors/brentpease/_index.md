@@ -67,8 +67,8 @@ social:
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
 # - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+#  icon_pack: ai
+#  link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -81,4 +81,4 @@ Brent Pease is an assistant professor in the Forestry Program at Southern Illino
 
 
 
-{{< icon name="download" pack="fas" >}} Download my current {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} Download my current {{< staticref #"media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
