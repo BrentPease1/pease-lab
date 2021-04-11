@@ -1,5 +1,5 @@
 ---
-title: "Join our lab"
+title: "Join the lab"
 share: false # Show social sharing links?
 ---
 
