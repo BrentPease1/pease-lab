@@ -3,4 +3,4 @@
 type: widget_page
 ---
 
-# Join our lab
+Join our lab
