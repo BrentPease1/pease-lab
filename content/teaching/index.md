@@ -1,4 +1,6 @@
 ---
-# Files in this folder represent a Widget Page
-type: widget_page
+title: "Teaching"
+share: false # Show social sharing links?
 ---
+
+__**Coming Soon!**__
