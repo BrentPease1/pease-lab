@@ -1,5 +1,5 @@
 ---
-title: New paper led on the economic impact of public lands on house prices out now in Human Dimensions of Wildlife!
+title: New paper led on the economic impact of public lands on housing prices out now in Human Dimensions of Wildlife!
 date: 2021-08-11
 ---
 
