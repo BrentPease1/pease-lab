@@ -4,12 +4,12 @@ share: true # Show social sharing links?
 
 ---
 
-# UPDATE
-### The 2021 BioBlitz has ended and was a great first year! Check back August 2022 for information on next year's effort!
+
+### The 2021 BioBlitz has ended. Check back August 2022 for information on next year's effort!
 
     
 
-The Saluki BioBlitz is an annual 24-hour challenge to document as many plant and animal species as possible across SIU's Carbondale campus. Starting on Friday, August 20th, 2021, participants can upload observations to [iNaturalist](https://www.inaturalist.org) and they will be automatically added to the [Saluki BioBlitz Project](https://www.inaturalist.org/projects/southern-illinois-university-saluki-bioblitz). There is no registration required - but consider adding your iNaturalist user ID on our form [here](https://tinyurl.com/saluki-bioblitz-register) - anyone can participate at anytime.     
+The Saluki BioBlitz is an annual 24-hour challenge to document as many plant and animal species as possible across SIU's Carbondale campus. Participants can upload observations to [iNaturalist](https://www.inaturalist.org) and they will be automatically added to the [Saluki BioBlitz Project](https://www.inaturalist.org/projects/southern-illinois-university-saluki-bioblitz). There is no registration required - but consider adding your iNaturalist user ID on our form [here](https://tinyurl.com/saluki-bioblitz-register) - anyone can participate at anytime.     
 
 Although you may see others out documenting biodiversity, this can be an individual activity and small groups are encouraged to adhere to current COVID-19 recommendations.    
 
