@@ -24,7 +24,7 @@ abstract:
 
 
 # Summary. An optional shortened abstract.
-summary: Protected areas remain at the forefront of conservation action plans and are a critical management approach to sustain and restore global biodiversity. In their recent paper, Ferreira et al. (2020) present a compelling case that strict protected areas are essential for the conservation of large and threatened Neotropical mammals in the Brazilian Cerrado. The authors used a large-scale camera trap network across two levels of protected areas to make strong inferences with results that are robust and actionable for conservation moving forward. Upon reviewing species-specific responses to habitat modification and fragmentation versus strict protected areas, one additional pattern appears to prevail. The three species that were most associated with less strictly protected areas were all omnivores (e.g., hoary fox [Lycalopex vetulus], crab-eating fox [Cerdocyon thous], and hog-nosed skunk [Conepatus semistriatus]). This raises the additional question: are anthropogenic changes driving us towards an omnivore's world?
+summary: 
 
 tags:
 #- Source Themes
