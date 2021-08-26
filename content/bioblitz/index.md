@@ -4,7 +4,8 @@ share: true # Show social sharing links?
 
 ---
 
-
+# UPDATE
+### The 2021 BioBlitz has ended and was a great first year! Check back August 2022 for information on next year's effort!
 
 ## Please join us for the first annual Saluki BioBlitz taking place on August 20th, 2021 across SIU-C Campus!     
 
