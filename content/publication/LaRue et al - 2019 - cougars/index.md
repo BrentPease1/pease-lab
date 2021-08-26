@@ -18,7 +18,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Journal of Wildlife Management*
-publication_short: In *JWM*
+publication_short: In *Journal of Wildlife Management*
 
 abstract:
 
