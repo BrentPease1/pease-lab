@@ -21,7 +21,9 @@ The email subject should be “(MS or PhD – select one) Species of Conservatio
     
     
     
-    
+___    
+___    
+___    
 
 __**Undergraduate students**__: I am particularly interested in working with motivated undergraduates that are seeking research experience. While I have many projects that you could contribute to, I am open to exploring new ideas with you. Please send me a brief [email](mailto:bpease1@siu.edu) with your current resume and we can discuss potential projects.    
 
