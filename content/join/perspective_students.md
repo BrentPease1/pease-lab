@@ -1,7 +1,6 @@
 ---
 title: "Perspective Students"
 share: false # Show social sharing links?
-parent = "join"
 ---
 
   
