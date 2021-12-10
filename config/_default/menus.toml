@@ -43,11 +43,18 @@
   weight = 1
   
 [[main]]
-  name = "BioBlitz"
-  url = "bioblitz"
+  name = "Contact"
+  url = "contact"
   weight = 60
 
 [[main]]
-  name = "Contact"
-  url = "contact"
+  name = "Other"
+  identifier = "other"
+  url = "other/"
   weight = 70
+
+[[main]]
+  name = "Saluki BioBlitz"
+  parent = "other"
+  url = "other/saluki_bioblitz"
+  weight = 1
