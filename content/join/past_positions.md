@@ -1,6 +1,7 @@
 ---
 title: "Past Positions"
 share: false # Show social sharing links?
+parent = "join"
 ---
 
 
