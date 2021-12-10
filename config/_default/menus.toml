@@ -26,8 +26,21 @@
   
 [[main]]
   name = "Join"
-  url = "join/"
+  identifier = "join"
+  url = "join"
   weight = 50
+  
+[[main]]
+  name = "Past Positions"
+  parent = "join"
+  url = "join/past_positions"
+  weight = 2
+  
+[[main]]
+  name = "Perspective Students"
+  parent = "join"
+  url = "join/perspective_students"
+  weight = 1
   
 [[main]]
   name = "BioBlitz"
