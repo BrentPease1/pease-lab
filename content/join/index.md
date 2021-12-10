@@ -3,9 +3,9 @@ title: "Join the lab"
 share: false # Show social sharing links?
 ---
 
-#___    
-#___    
-#___    
+  
+  
+  
 
 __**Undergraduate students**__: I am particularly interested in working with motivated undergraduates that are seeking research experience. While I have many projects that you could contribute to, I am open to exploring new ideas with you. Please send me a brief [email](mailto:bpease1@siu.edu) with your current resume and we can discuss potential projects.    
 
