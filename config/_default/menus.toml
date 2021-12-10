@@ -56,5 +56,5 @@
 [[main]]
   name = "Saluki BioBlitz"
   parent = "other"
-  url = "other/saluki_bioblitz/"
+  url = "other/saluki_bioblitz/saluki_bioblitz"
   weight = 1
