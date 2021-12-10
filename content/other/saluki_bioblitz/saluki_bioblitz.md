@@ -15,5 +15,5 @@ Although you may see others out documenting biodiversity, this can be an individ
 
 The event is a great way to document and learn about the biodiversity across campus while contributing to the SIU Forestry Program's ongoing efforts of recording species occurrence across the region.
 
-![Saluki BioBlitz Flyer](flyer.png)    
+![Saluki BioBlitz Flyer](saluki_bioblitz/flyer.png)    
 
