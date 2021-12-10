@@ -23,22 +23,18 @@
   url = "publication"
   weight = 40
   
-[[main]]
-  name = "Teaching"
-  url = "teaching"
-  weight = 50
   
 [[main]]
   name = "Join"
   url = "join"
-  weight = 60
+  weight = 50
   
 [[main]]
   name = "BioBlitz"
   url = "bioblitz"
-  weight = 70
+  weight = 60
 
 [[main]]
   name = "Contact"
   url = "contact"
-  weight = 80
+  weight = 70
