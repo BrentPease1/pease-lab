@@ -1,5 +1,5 @@
 ---
-title: New article on spatial biases of a statewide citizen science project now in Citizen Science - Theory and Practice!
+title: New article on spatial biases of a statewide citizen science project just published in Citizen Science Theory and Practice!
 date: 2021-12-16
 ---
 
