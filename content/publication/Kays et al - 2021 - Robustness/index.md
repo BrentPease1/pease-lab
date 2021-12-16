@@ -20,14 +20,14 @@ doi: "http://doi.org/10.5334/cstp.344"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Citizen Science: Theory and Practice*
-publication_short: In *Citizen Science: Theory and Practice*
+publication: In *Citizen Science Theory and Practice*
+publication_short: In *Citizen Science Theory and Practice*
 
 abstract: 
 
 
 # Summary. An optional shortened abstract.
-summary: Although quality control for accuracy is increasingly common in citizen science projects, there is still a risk that spatial biases of opportunistic data could affect results, especially if sample size is low. Here we evaluate how well the sampling locations of North Carolina’s Candid Critters citizen science camera trapping project represented available land cover types in the state and whether the sample size was sufficient to estimate ecological parameters with low bias and error.
+summary: Although quality control for accuracy is increasingly common in citizen science projects, there is still a risk that spatial biases of opportunistic data could affect results, especially if sample size is low. Here we evaluate how well the sampling locations of North Carolina Candid Critters citizen science camera trapping project represented available land cover types in the state and whether the sample size was sufficient to estimate ecological parameters with low bias and error.
 
 tags:
 #- Source Themes
@@ -48,7 +48,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: ""
   focal_point: ""
   preview_only: false
 
