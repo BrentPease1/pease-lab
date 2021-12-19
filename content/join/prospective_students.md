@@ -1,5 +1,5 @@
 ---
-title: "Perspective Students"
+title: "Prospective Students"
 share: false # Show social sharing links?
 ---
 
