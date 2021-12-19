@@ -39,7 +39,7 @@
 [[main]]
   name = "Prospective Students"
   parent = "join"
-  url = "join/perspective_students"
+  url = "join/prospective_students"
   weight = 1
   
 [[main]]
