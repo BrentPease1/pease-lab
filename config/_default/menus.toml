@@ -29,18 +29,24 @@
   identifier = "join"
   url = "join"
   weight = 50
-  
-[[main]]
-  name = "Past Positions"
-  parent = "join"
-  url = "join/past_positions"
-  weight = 2
-  
+
 [[main]]
   name = "Prospective Students"
   parent = "join"
   url = "join/prospective_students"
   weight = 1
+  
+[[main]]
+  name = "Current Openings"
+  parent = "join"
+  url = "join/current_openings"
+  weight = 2
+
+[[main]]
+  name = "Past Positions"
+  parent = "join"
+  url = "join/past_positions"
+  weight = 3
   
 [[main]]
   name = "Contact"
