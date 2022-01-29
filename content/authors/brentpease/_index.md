@@ -23,7 +23,7 @@ organizations:
   url: https://coas.siu.edu/forestry/ 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Brent Pease is an Assitant Professor in the Forestry Program at Southern Illinois University.
+bio: Brent Pease is an Assistant Professor in the Forestry Program at Southern Illinois University.
 
 # Interests to show in About widget
 interests:
@@ -57,7 +57,7 @@ social:
   link: https://twitter.com/brentPease1
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack, `graduation-cap` icon from `fas` icon pack
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=dP2iP1UAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=ejTf-_gAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/BrentPease1
@@ -77,7 +77,7 @@ email: ""
 highlight_name: false
 ---
 
-Brent Pease is an assistant professor in the Forestry Program at Southern Illinois University. His research interests include spatial ecology and landscape ecology, where he addresses a diverse set of applied issues in wildlife conservation and management. To address these issues, his research uses observational and experimental fieldwork with quantitative modeling and spatial analysis. Outside of work, Brent enjoys family camping trips, hiking, bird watching, running, and cycling.
+Dr. Brent Pease is an assistant professor in the Forestry Program at Southern Illinois University. His research interests include spatial ecology and landscape ecology, where he addresses a diverse set of applied issues in wildlife conservation and management. To address these issues, his research uses observational and experimental fieldwork with quantitative modeling and spatial analysis. Outside of work, Brent enjoys family camping trips, hiking, bird watching, mountain biking, and playing and listening to music.
 
 
 
