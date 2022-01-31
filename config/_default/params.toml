@@ -100,7 +100,7 @@ directions = "Office located in Ag 186B"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Office hours: Tuesdays 1-2pm or by appt"]
+office_hours = ["Office hours: Tuesdays 1-2pm or by appointment"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://calendly.com/brentpease"
