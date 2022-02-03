@@ -64,3 +64,9 @@
   parent = "other"
   url = "other/saluki_bioblitz/saluki_bioblitz"
   weight = 1
+  
+[[main]]
+  name = "Publication Data"
+  parent = "other"
+  url = "other/publication_data/publication_data"
+  weight = 2
