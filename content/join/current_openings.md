@@ -4,8 +4,10 @@ share: false # Show social sharing links?
 ---
 ## **MS Graduate Assistantship – Occupancy Dynamics of Swamp Rabbits: southern Illinois**    
 
-*Start Date:* August 22, 2022
-*Last Day to Apply*: March 4, 2022
+*Start Date:* August 22, 2022    
+
+*Last Day to Apply*: March 4, 2022    
+
 *Salary*: $1,534/month + tuition and health benefits
 
 
