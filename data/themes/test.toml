@@ -1,6 +1,9 @@
 # Theme metadata
 name = "test"
 
+# Is theme light or dark?
+light = true
+
 [light]
 # Primary
 primary = "#1565c0"
