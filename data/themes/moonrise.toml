@@ -1,0 +1,23 @@
+# Theme metadata
+name = "moonrise"
+
+[light]
+  # Primary
+  primary = "#1565c0"
+
+  # Menu
+  menu_primary = "#798E87"
+  menu_text = "#CCC591"
+  menu_text_active = "#C27D38"
+  menu_title = "#29211F"
+
+  # Home sections
+  home_section_odd = "rgb(255, 255, 255)"
+  home_section_even = "rgb(247, 247, 247)"
+
+[dark]
+  # Primary
+  primary = "#bbdefb"
+
+  link = "#bbdefb"
+  link_hover = "#bbdefb"
