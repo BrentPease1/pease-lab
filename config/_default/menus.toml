@@ -42,11 +42,6 @@
   url = "join/current_openings"
   weight = 2
 
-[[main]]
-  name = "Past Positions"
-  parent = "join"
-  url = "join/past_positions"
-  weight = 3
   
 [[main]]
   name = "Contact"
