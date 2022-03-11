@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Brent Pease
+title: Brent Pease, Ph.D.
 
 # Username (this should match the folder name)
 authors:
