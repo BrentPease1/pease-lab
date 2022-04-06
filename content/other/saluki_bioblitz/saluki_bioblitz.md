@@ -5,7 +5,7 @@ share: true # Show social sharing links?
 ---
 
 
-### The 2021 BioBlitz has ended. Check back August 2022 for information on next year's effort!
+### The 2021 BioBlitz has ended. Check back Summer 2022 for information on next year's effort!
 
     
 
