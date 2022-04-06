@@ -13,14 +13,14 @@ user_groups:
 - Lab Members
 
 # Role/position/tagline
-role: Undergraduate Researcher
+role: Undergraduate Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Southern Illinois University
+- name: Southern Illinois University - SI Bridges
   url: https://www.siu.edu/
 - name: Forestry Program
-  url: https://coas.siu.edu/forestry/ 
+  url: https://sibridges.siu.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Kelsee Dodd is an undergraduate student studying black bears. Her project uses a [iNaturalist](https://www.inaturalist.org/) to study the spatial patterns of American black bear coat colors. Kelsee also contributes to our Sounds of Nature project. In her free time, she loves to do wildlife photography and hike. Kelsee joined our lab through the Southern Illinois University Bridges to Baccalaureate program - an NIH funded project supporting science research training and professional development for underserved community college students. To learn more about the SI Bridges program, visit their [website](https://sibridges.siu.edu/).
@@ -34,7 +34,7 @@ education:
   courses:
   - course: AA in General Studies (In Progress); SIU, Fall 2023 (undecided)
     institution: John A. Logan College, Carterville, Illinois, USA
-    year: 2023
+    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
