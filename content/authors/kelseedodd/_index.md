@@ -17,13 +17,13 @@ role: Undergraduate Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Southern Illinois University - SI Bridges
+- name: Southern Illinois University
   url: https://www.siu.edu/
-- name: SI Bridges to Baccalaureate
+- name: SI Bridges to Baccalaureate Program
   url: https://sibridges.siu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Kelsee Dodd is an undergraduate student studying black bears. Her project uses a [iNaturalist](https://www.inaturalist.org/) to study the spatial patterns of American black bear coat colors. Kelsee also contributes to our Sounds of Nature project. In her free time, she loves to do wildlife photography and hike. Kelsee joined our lab through the Southern Illinois University Bridges to Baccalaureate program - an NIH funded project supporting science research training and professional development for underserved community college students. To learn more about the SI Bridges program, visit their [website](https://sibridges.siu.edu/).
+bio: Kelsee Dodd is an undergraduate student studying black bear ecology.
 
 # Interests to show in About widget
 interests:
@@ -61,7 +61,7 @@ email: ""
 highlight_name: false
 ---
 
-Elaine is a master’s student studying nightjars in Southern Illinois. Her project will use passive acoustic monitoring to investigate nocturnal bird species like the Eastern Whip-poor-will and the Chuck-will's-widow. In her free time, she loves to backpack, paddleboard, and cultivate orchids.
+Kelsee Dodd is an undergraduate student studying black bear ecology. Her project uses a [iNaturalist](https://www.inaturalist.org/) to study the spatial patterns of American black bear coat colors. Kelsee also contributes to our Sounds of Nature project. In her free time, she loves to do wildlife photography and hike. Kelsee joined our lab through the Southern Illinois University Bridges to Baccalaureate program - an NIH funded project supporting science research training and professional development for underserved community college students. To learn more about the SI Bridges program, visit their [website](https://sibridges.siu.edu/).
 
 
 
