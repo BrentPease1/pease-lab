@@ -19,7 +19,7 @@ role: Undergraduate Research Assistant
 organizations:
 - name: Southern Illinois University - SI Bridges
   url: https://www.siu.edu/
-- name: Forestry Program
+- name: SI Bridges to Baccalaureate
   url: https://sibridges.siu.edu/
 
 # Short bio (displayed in user profile at end of posts)
