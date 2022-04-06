@@ -23,21 +23,18 @@ organizations:
   url: https://coas.siu.edu/forestry/ 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Kelsee Dodd is an undergraduate student studying black bears. Her project uses a [iNaturalist](https://www.inaturalist.org/) to study the spatial patterns of American black bear coat colors. Kelsee also contributes to our Sounds of Nature project. In her free time, she loves to do wildlife photography and hike. 
-
-Kelsee joined our lab through the Southern Illinois University Bridges to Baccalaureate program - an NIH funded project supporting science research training and professional development for underserved community college students. To learn more about the SI Bridges program, visit their [website](https://sibridges.siu.edu/).
+bio: Kelsee Dodd is an undergraduate student studying black bears. Her project uses a [iNaturalist](https://www.inaturalist.org/) to study the spatial patterns of American black bear coat colors. Kelsee also contributes to our Sounds of Nature project. In her free time, she loves to do wildlife photography and hike. Kelsee joined our lab through the Southern Illinois University Bridges to Baccalaureate program - an NIH funded project supporting science research training and professional development for underserved community college students. To learn more about the SI Bridges program, visit their [website](https://sibridges.siu.edu/).
 
 # Interests to show in About widget
 interests:
-- Avian Ecology
-- Bioacoustics
+- Carnivore Ecology
 
 # Education to show in About widget
 education:
   courses:
-  - course: BSc in Biology
-    institution: Hollins University, Roanoke, Virginia, USA
-    year: 2019
+  - course: AA in General Studies (In Progress); SIU, Fall 2023 (undecided)
+    institution: John A. Logan College, Carterville, Illinois, USA
+    year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -46,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:ealine.metz1@siu.edu"
+  link: "mailto:kelsee.dodd@siu.edu"
 
 
 
