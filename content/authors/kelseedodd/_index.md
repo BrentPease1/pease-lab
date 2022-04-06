@@ -61,7 +61,7 @@ email: ""
 highlight_name: false
 ---
 
-Kelsee Dodd is an undergraduate student studying black bear ecology. Her project uses a [iNaturalist](https://www.inaturalist.org/) to study the spatial patterns of American black bear coat colors. Kelsee also contributes to our Sounds of Nature project. In her free time, she loves to do wildlife photography and hike. Kelsee joined our lab through the Southern Illinois University Bridges to Baccalaureate program - an NIH funded project supporting science research training and professional development for underserved community college students. To learn more about the SI Bridges program, visit their [website](https://sibridges.siu.edu/).
+Kelsee Dodd is an undergraduate student studying black bear ecology. Her project uses [iNaturalist](https://www.inaturalist.org/) to study the spatial patterns of American black bear coat colors. Kelsee also contributes to our Sounds of Nature project. In her free time, she loves to do wildlife photography and hike. Kelsee joined our lab through the Southern Illinois University Bridges to Baccalaureate program - an NIH funded project supporting science research training and professional development for underserved community college students. To learn more about the SI Bridges program, visit their [website](https://sibridges.siu.edu/).
 
 
 
