@@ -5,6 +5,10 @@ share: true # Show social sharing links?
 ---
 {{< figure library="true" src="sounds_nature_logo_AM.png" >}}
 
+{{% callout note %}}
+Did one of our team members contact you about surveying your property? See below under the **Volunteer** header for more information!
+{{% /callout %}}
+
 ### Overview    
 
 Sound is everywhere around us. Whether we are in the woods or in a city center, all landscapes have sounds that vary throughout the day, everyday of the year. Natural landscapes are often dominated by sounds of living organisms – frogs, insects, birds, even mammals – but we also hear the quiet, background noises – flowing streams, trees swaying in the wind. In other environments, we hear the hissing of garbage trucks, sirens from emergency vehicles, and children laughing and playing in parks. Together, the sounds emanating from each environment produce a unique “**soundscape**”.    
@@ -13,9 +17,6 @@ Sounds of Nature is a community research project to understand changes in biodiv
 
 Citizen science – engaging and involving the general public in scientific research – is a promising approach to tackling large-scale biodiversity issues. Through Sounds of Nature, a team of researchers and the public are participating in and contributing to a state-wide project to monitor biodiversity in their backyard and beyond. Our first step in this multi-year project is to focus on one sentinel of change – birds!  
 
-{{% callout note %}}
-Did one of our team members contact you about surveying your property? See below under the **Volunteer** header for more information!
-{{% /callout %}}
 
 ### Background    
 
