@@ -50,7 +50,6 @@
 
 [[main]]
   name = "Sounds of Nature"
-  identifier = "sounds_of_nature"
   url = "sounds"
   weight = 70
 
