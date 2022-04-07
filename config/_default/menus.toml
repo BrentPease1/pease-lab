@@ -51,20 +51,8 @@
 [[main]]
   name = "Sounds of Nature"
   identifier = "sounds_of_nature"
-  url = "sounds_of_nature/"
+  url = "sounds"
   weight = 70
-
-[[main]]
-  name = "About"
-  parent = "sounds_of_nature"
-  url = "sounds_of_nature/about"
-  weight = 1
-  
-[[main]]
-  name = "Volunteer"
-  parent = "sounds_of_nature"
-  url = "sounds_of_nature/volunteer"
-  weight = 2
 
 [[main]]
   name = "Other"
