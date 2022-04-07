@@ -14,7 +14,7 @@ Sounds of Nature is a community research project to understand changes in biodiv
 Citizen science – engaging and involving the general public in scientific research – is a promising approach to tackling large-scale biodiversity issues. Through Sounds of Nature, a team of researchers and the public are participating in and contributing to a state-wide project to monitor biodiversity in their backyard and beyond. Our first step in this multi-year project is to focus on one sentinel of change – birds!  
 
 {{% callout note %}}
-Did one of our team members contact you about surveying your property? See below under the *Volunteer* header for more information!
+Did one of our team members contact you about surveying your property? See below under the **Volunteer** header for more information!
 {{% /callout %}}
 
 ### Background    
