@@ -23,11 +23,11 @@ In Sounds of Nature, we are using innovative monitoring of soundscapes combined 
 
 ### Volunteer    
 
-#### New to Sounds of Nature  
+&nbsp;&nbsp;&nbsp;#### New to Sounds of Nature  
 
-Interested in participating in our project and hosting an acoustic recorder on your property? We’d love to have you join our efforts!    
+&nbsp;&nbsp;&nbsp;Interested in participating in our project and hosting an acoustic recorder on your property? We’d love to have you join our efforts!    
 
-Please submit a request form through our [application portal](https://siucarbondale.maps.arcgis.com/apps/webappviewer/index.html?id=7b281cf01f864a9bba54d4881196c423) by selecting the block you live in and filling out the application. We will follow up as soon as we can!    
+&nbsp;&nbsp;&nbsp;Please submit a request form through our [application portal](https://siucarbondale.maps.arcgis.com/apps/webappviewer/index.html?id=7b281cf01f864a9bba54d4881196c423) by selecting the block you live in and filling out the application. We will follow up as soon as we can!    
 
 #### Contacted by our team?    
 
