@@ -47,17 +47,17 @@ ___
 
 For the first year of the project, we have selected blocks across southern Illinois and are contacting private landowners within these randomly selected blocks. You are an important part of this project and we would love to have your support!    
 
-###### What is required from you?      
+*What is required from you?*      
 
 Absolutely nothing! If you want to be more involved, there are options to do so. 
 
-###### What EXACTLY will we be doing on your property?     
+*What EXACTLY will we be doing on your property?*     
 
 We will need access to your property a total of two times – once to deploy the sound recorder and the other to retrieve it. The sound recorder can be placed anywhere on your property, and you may specify a location if you would like. If you do not have an opinion on the specific location, we will pick a location that is discrete and accessible.
 
 The sound recorder will be on your property for 5-7 days and will be programmed to record from 5-9am for birds like warblers or thrush’s, and 6-10pm to listen for nocturnal birds like the whip-poor-wills and owls. We will also briefly survey vegetation directly around the recorder but will not remove or modify the vegetation in any way. At retrieval, we will simply remove the sound recorder from the tree it was mounted on.
 
-###### When will this happen?     
+*When will this happen?*     
 
 We will visit your property between May 1st and July 22nd 2022. If you are willing to participate, we will contact you 1-2 days before visiting your property.  
 
