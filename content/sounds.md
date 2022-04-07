@@ -3,7 +3,7 @@ title: " Sounds of Nature"
 share: true # Show social sharing links?
 
 ---
-{{< figure library = "true" src="sounds_nature_logo.png" >}}
+{{< figure library="true" src="sounds_nature_logo.png" >}}
 
 ### Overview    
 
@@ -12,6 +12,10 @@ Sound is everywhere around us. Whether we are in the woods or in a city center, 
 Sounds of Nature is a community research project to understand changes in biodiversity over time by studying these soundscapes. Globally, we are losing biodiversity – the variety of living organisms on Earth - at unprecedented rates, and the widespread decline of many wildlife species is a growing concern for society. Studying the collective biodiversity – by listening – is a promising approach to learn about the health of an ecosystem across time and space, and, with new technology, is something that all of us can do!    
 
 Citizen science – engaging and involving the general public in scientific research – is a promising approach to tackling large-scale biodiversity issues. Through Sounds of Nature, a team of researchers and the public are participating in and contributing to a state-wide project to monitor biodiversity in their backyard and beyond. Our first step in this multi-year project is to focus on one sentinel of change – birds!  
+
+{{% callout note %}}
+Did one of our team members contact you about surveying your property? See below under the *Volunteer* header for more information!
+{{% /callout %}}
 
 ### Background    
 
