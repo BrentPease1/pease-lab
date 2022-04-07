@@ -11,7 +11,7 @@ Sound is everywhere around us. Whether we are in the woods or in a city center, 
 
 Sounds of Nature is a community research project to understand changes in biodiversity over time by studying these soundscapes. Globally, we are losing biodiversity – the variety of living organisms on Earth - at unprecedented rates, and the widespread decline of many wildlife species is a growing concern for society. Studying the collective biodiversity – by listening – is a promising approach to learn about the health of an ecosystem across time and space, and, with new technology, is something that all of us can do!    
 
-Citizen science – engaging and involving the general public in scientific research – is a promising approach to tackling large-scale biodiversity issues. Through Sounds of Nature, a team of researchers and the public are participating in and contributing to a state-wide project to monitor biodiversity in their backyard and beyond. Our first step in this multi-year project is to focus on one sentinel of change – birds!    
+Citizen science – engaging and involving the general public in scientific research – is a promising approach to tackling large-scale biodiversity issues. Through Sounds of Nature, a team of researchers and the public are participating in and contributing to a state-wide project to monitor biodiversity in their backyard and beyond. Our first step in this multi-year project is to focus on one sentinel of change – birds!  
 
 ### Background    
 
@@ -21,6 +21,11 @@ Bird populations have been declining globally, with recent estimates suggesting 
 
 In Sounds of Nature, we are using innovative monitoring of soundscapes combined with the power of the public through citizen science to detect large-scale changes in biodiversity across our region. Teams of university researchers and citizen scientists use inexpensive, portal sound recorders to collect sounds for a few days across forests, grasslands, agricultural areas, and even urban areas throughout Illinois. Our teams then retrieve the recorders and transfer recorded soundscapes to a computer system to be processed with modern machine learning techniques in bioacoustic analysis. Our researchers review recordings and identify birds by their calls. These representative bird calls are used to train a computer routine to automatically identify birds in hours and hours of soundscape recordings. We couple the information of which bird species are detected across with remote sensing information to understand how changes in land cover, climate, and land use have affected birds and the greater biodiversity of our region.    
 
+___    
+___    
+___    
+
+
 ### Volunteer    
 
 #### New to Sounds of Nature?  
@@ -28,6 +33,11 @@ In Sounds of Nature, we are using innovative monitoring of soundscapes combined 
 Interested in participating in our project and hosting an acoustic recorder on your property? We’d love to have you join our efforts!    
 
 Please submit a request form through our [application portal](https://siucarbondale.maps.arcgis.com/apps/webappviewer/index.html?id=7b281cf01f864a9bba54d4881196c423) by selecting the block you live in and filling out the application. We will follow up as soon as we can!    
+
+___    
+___    
+___    
+
 
 #### Contacted by our team?    
 
@@ -37,7 +47,7 @@ For the first year of the project, we have selected blocks across southern Illin
 
 Absolutely nothing! If you want to be more involved, there are options to do so. 
 
-###### What EXACTLY would we be doing on your property?     
+###### What EXACTLY will we be doing on your property?     
 
 We will need access to your property a total of two times – once to deploy the sound recorder and the other to retrieve it. The sound recorder can be placed anywhere on your property, and you may specify a location if you would like. If you do not have an opinion on the specific location, we will pick a location that is discrete and accessible.
 
@@ -46,6 +56,11 @@ The sound recorder will be on your property for 5-7 days and will be programmed 
 ###### When will this happen?     
 
 We will visit your property between May 1st and July 22nd 2022. If you are willing to participate, we will contact you 1-2 days before visiting your property.  
+
+___    
+___    
+___    
+
 
 ### General Questions    
 
