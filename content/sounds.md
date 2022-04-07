@@ -3,7 +3,7 @@ title: " Sounds of Nature"
 share: true # Show social sharing links?
 
 ---
-{{< figure library="true" src="sounds_nature_logoAM.png" >}}
+{{< figure library="true" src="sounds_nature_logo_AM.png" >}}
 
 ### Overview    
 
