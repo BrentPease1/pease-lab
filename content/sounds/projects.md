@@ -41,7 +41,7 @@ filter_default: 0
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '1'
+  columns: '2'
 # Choose a listing view
 view: 5
 # For Showcase view, flip alternate rows?
