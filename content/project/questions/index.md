@@ -1,5 +1,5 @@
 ---
-title: Questions?
+title: Questions
 summary: See here for a list of frequent questions about Sounds of Nature
   tags:
   - Questions
