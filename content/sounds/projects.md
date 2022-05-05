@@ -13,6 +13,10 @@ title: ""
 subtitle: ''
 
 content:
+
+  # Folders to display content from
+    folders:
+      - project
   # Page type to display. E.g. project.
   page_type: project
 
