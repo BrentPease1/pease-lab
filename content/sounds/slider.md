@@ -1,22 +1,23 @@
 ---
-widget: slider  # Use the Slider widget as this page section
-weight: 3  # Position of this section on the page
-active: true  # Publish this section?
-headless: true  # This file represents a page section.
+  active: true  
+headless: true  
+height: 250px
+interval: false
 
-design:
-  # Slide height is automatic unless you force a specific height (e.g. '400px')
-  slide_height: ''
-is_fullscreen: true
-# Automatically transition through slides?
-loop: false
-# Duration of transition between slides (in ms)
-interval: 2000
-
-content:
-slides:
-- title: About the Project
+item:
+  - title: About the Project
+align: center 
 content: Learn about Sounds of Nature
-brightness: 0.7
-media:
+overlay_color: '#1f4e74FF' # An HTML color value.
+overlay_filter: 0.0 
+overlay_img: ''   
+- title: Contact
+align: center 
+content: Contact our team
+overlay_color: '#1f4e74FF'
+overlay_filter: 0.0
+overlay_img: ''
+
+weight: 3
+widget: slider  
 ---
