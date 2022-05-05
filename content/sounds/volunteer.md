@@ -13,7 +13,7 @@ weight: 2
 title: "Volunteer"
 
 # Section subtitle
-subtitle: "Be a Citizen Scientist with Sounds of Nature"
+subtitle: "Be a Citizen Scientist with Sounds of Nature!"
 
 # Section design
 design:
@@ -22,10 +22,6 @@ design:
 
 ---
 
-
-# Sounds of Nature Volunteers
-
-Sounds of Nature is a community research project to understand changes in biodiversity over time by studying these soundscapes. Citizen science – engaging and involving the general public in scientific research – is a promising approach to tackling large-scale biodiversity issues. Through Sounds of Nature, a team of researchers and the public are participating in and contributing to a state-wide project to monitor biodiversity in their backyard and beyond.
 
 ## Become a Volunteer  
 
