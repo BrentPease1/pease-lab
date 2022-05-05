@@ -14,13 +14,9 @@ loop: false
 interval: 2000
 
 content:
-  slides:
+slides:
 - title: About the Project
 content: Learn about Sounds of Nature
-      # align: center
-      # background:
-      #   position: right
-      #   color: '#666'
 brightness: 0.7
 media:
 ---
