@@ -13,7 +13,7 @@ subtitle: ""
 
 content:
   # Choose which content to display in the widget
-  filters: All
+  filters: 
   # Folders to display content from
   folders:
   - volunteer
