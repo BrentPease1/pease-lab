@@ -1,5 +1,7 @@
 ---
-  title: Volunteer
+widget: portfolio
+headless: true  # This file represents a page section.
+title: Volunteer
 summary: Be a citizen scientist with Sounds of Nature
 tags:
   - Volunteer
