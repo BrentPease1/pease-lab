@@ -15,14 +15,15 @@ interval: 2000
 
 content:
   slides:
-  - title: 👋 Welcome to the group
-content: Take a look at what we're working on...
+  - title: Volunteers
+content: Be a Citizen Scientist with Sounds of Nature
       align: center
       background:
         position: right
         color: '#666'
 brightness: 0.7
-media: coders.jpg
+media: volunteer.jpg
+
 - title: Lunch & Learn ☕️
 content: 'Share your knowledge with the group and explore exciting new topics together!'
 align: left
@@ -30,7 +31,8 @@ background:
   position: center
 color: '#555'
 brightness: 0.7
-media: contact.jpg
+media: icon.png
+
 - title: World-Class Semiconductor Lab
 content: 'Just opened last month!'
 align: right
@@ -38,7 +40,7 @@ background:
   position: center
 color: '#333'
 brightness: 0.5
-media: welcome.jpg
+media: volunteer.jpg
 link:
   icon: graduation-cap
 icon_pack: fas
