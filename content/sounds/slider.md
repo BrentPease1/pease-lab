@@ -24,7 +24,7 @@ content: Be a Citizen Scientist with Sounds of Nature
 brightness: 0.7
 media: volunteer.jpg
 
-- title: Lunch & Learn ☕️
+- title: Lunch & Learn
 content: 'Share your knowledge with the group and explore exciting new topics together!'
 align: left
 background:
