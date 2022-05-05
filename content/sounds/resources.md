@@ -15,7 +15,9 @@ content:
   filters:
   # Folders to display content from
   folders:
-  - sounds
+  - volunteer
+  - about
+  - contact
 
 
 # Field to sort by, such as Date or Title
