@@ -1,6 +1,5 @@
 ---
-widget: portfolio
-headless: true  # This file represents a page section.
+widget: project
 title: Volunteer
 summary: Be a citizen scientist with Sounds of Nature
 tags:
