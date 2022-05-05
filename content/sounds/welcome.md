@@ -24,3 +24,6 @@ design:
 
 {{< figure library="true" src="sounds_nature_logo_AM.png" >}}
 
+
+Sounds of Nature is a community research project to understand changes in biodiversity over time by studying these soundscapes. Globally, we are losing biodiversity – the variety of living organisms on Earth - at unprecedented rates, and the widespread decline of many wildlife species is a growing concern for society. Studying the collective biodiversity – by listening – is a promising approach to learn about the health of an ecosystem across time and space, and, with new technology, is something that all of us can do!    
+
