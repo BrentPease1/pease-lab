@@ -1,3 +1,4 @@
+---
 widget: slider  # Use the Slider widget as this page section
 weight: 3  # Position of this section on the page
 active: true  # Publish this section?
@@ -22,3 +23,4 @@ content: Learn about Sounds of Nature
       #   color: '#666'
 brightness: 0.7
 media:
+---
