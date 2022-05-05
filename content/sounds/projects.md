@@ -3,7 +3,7 @@ widget: portfolio
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-title: ""
+title: "Resources"
 subtitle: ''
 
 # Order that this section appears on the page.
