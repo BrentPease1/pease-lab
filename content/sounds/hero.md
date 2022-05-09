@@ -10,23 +10,6 @@ title: "Volunteer with Sounds of Nature"
 # Hero image (optional). Enter filename of an image in the assets/media/ folder.
 hero_media: "field_photo.jpg"
 
-[design.background]
-# Apply a background color, gradient, or image.
-#   Uncomment (by removing `#`) an option to apply it.
-#   Choose a light or dark text color by setting `text_color_light`.
-#   Any HTML color name or Hex value is valid.
-
-# Background color.
-# color: "navy"
-
-# Background gradient
-gradient_start: "#4bb4e3"
-gradient_end: "#2b94c3"
-
-
-# Text color (true=light or false=dark).
-text_color_light: true
-
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
