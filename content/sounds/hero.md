@@ -8,7 +8,7 @@ active: true # turn on/off
 title: "Volunteer with Sounds of Nature"
 
 # Hero image (optional). Enter filename of an image in the assets/media/ folder.
-hero_media: "field_photo.jpg"
+hero_media: "media/field_photo.jpg"
 
 
 # Call to action links (optional).
@@ -16,7 +16,7 @@ hero_media: "field_photo.jpg"
 #   Remove a link/note by deleting a cta/note block.
 cta:
   url: 'https://siucarbondale.maps.arcgis.com/apps/webappviewer/index.html?id=7b281cf01f864a9bba54d4881196c423'
-label: Host a sound recorder
+label: "Get Started"
 icon_pack: fas
 icon: microphone
 
