@@ -1,3 +1,4 @@
+---
 widget: hero
 headless: true  # This file represents a page section.
 weight: 2 # Order that this section appears on the page.
@@ -19,3 +20,4 @@ icon: microphone
 # Note. An optional note to show underneath the links.
 cta_note:
   label: ''
+---

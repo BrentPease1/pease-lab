@@ -27,7 +27,7 @@ design:
 
 Interested in participating in our project and hosting an acoustic recorder on your property? We’d love to have you join our efforts!    
   
-Please submit a request through our [application portal](https://siucarbondale.maps.arcgis.com/apps/webappviewer/index.html?id=7b281cf01f864a9bba54d4881196c423) by selecting the block you live in and filling out the application. We will follow up as soon as we can!   
+Please submit a request through our [Application Page](https://siucarbondale.maps.arcgis.com/apps/webappviewer/index.html?id=7b281cf01f864a9bba54d4881196c423) by selecting the block you live in and filling out the application. We will follow up as soon as we can!   
 
 ## Current Volunteers    
 
