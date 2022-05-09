@@ -33,6 +33,8 @@ Please submit a request through our [application portal](https://siucarbondale.m
 
 Thank you for participating in Sounds of Nature. Resources are available if you need assistance with any aspect of volunteering.
 
+[Sounds of Nature Volunteer Field Guide](https://saluki-my.sharepoint.com/:b:/g/personal/bpease1_siu_edu/EeLUa_cea2pAiHytTEhbfgIBhT8ZAULS2dBVj1g5c7vaTw?e=9iS91V)
+
 ----     
 ----     
 ----     
