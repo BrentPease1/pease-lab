@@ -17,11 +17,11 @@ hero_media: "field_photo.jpg"
 #   Any HTML color name or Hex value is valid.
 
 # Background color.
-# color = "navy"
+# color: "navy"
 
 # Background gradient.
-gradient_start = "#4bb4e3"
-gradient_end = "#2b94c3"
+gradient_start: "#4bb4e3"
+gradient_end: "#2b94c3"
 
 # Background image.
 # image = ""  # Name of image in `static/img/`.
@@ -31,7 +31,7 @@ gradient_end = "#2b94c3"
 # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
 # Text color (true=light or false=dark).
-text_color_light = true
+text_color_light: true
 
 
 # Call to action links (optional).
