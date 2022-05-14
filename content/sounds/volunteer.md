@@ -33,7 +33,7 @@ Please submit a request through our [Application Page](https://siucarbondale.map
 
 Thank you for participating in Sounds of Nature. Did you receive an AudioMoth in the mail? Please see below for a video on how to deploy it on your property!  
 
-{{% staticref "media/Sounds of Nature Deployment Guide.mp4" "newtab" %}}Sounds of Nature - How To {{% /staticref %}}
+{{% staticref "media/Sounds of Nature Deployment Guide.mp4" "newtab" %}}Sounds of Nature - Video Guide For Deploying AudiomOth {{% /staticref %}}
 
 {{% staticref "uploads/Sounds of Nature Citizen Scientist Field Guide.pdf" "newtab" %}}Sounds of Nature Volunteer Field Guide{{% /staticref %}}
 
