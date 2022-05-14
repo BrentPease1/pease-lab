@@ -31,9 +31,17 @@ Please submit a request through our [Application Page](https://siucarbondale.map
 
 ## Current Volunteers    
 
-Thank you for participating in Sounds of Nature. Resources are available if you need assistance with any aspect of volunteering.
+Thank you for participating in Sounds of Nature. Did you receive an AudioMoth in the mail? Please see below for a video on how to deploy it on your property!  
+
+{{% staticref "media/Sounds of Nature Deployment Guide.mp4" "newtab" %}}Sounds of Nature - How To {{% /staticref %}}
 
 {{% staticref "uploads/Sounds of Nature Citizen Scientist Field Guide.pdf" "newtab" %}}Sounds of Nature Volunteer Field Guide{{% /staticref %}}
+
+{{% staticref "uploads/Sounds of Nature Deployment Checklist.pdf" "newtab" %}}Sounds of Nature Deployment Checklist{{% /staticref %}}
+
+{{% staticref "uploads/Sounds of Nature Deployment Datasheet.pdf" "newtab" %}}Sounds of Nature Field Datasheet{{% /staticref %}}     
+
+Additional resources are available if you need assistance with any aspect of volunteering - please [contact us](https://peaselab.com/contact).
 
 ----     
 ----     
