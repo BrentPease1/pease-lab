@@ -13,7 +13,7 @@ weight: 3
 title: "News"
 
 # Section subtitle
-subtitle: "Sounds of Nature in the News"
+subtitle: "Media Coverage for Sounds of Nature"
 
 # Section design
 design:
@@ -23,13 +23,13 @@ design:
 ---
   
   
-## Media Coverage for Sounds of Nature     
-
 Check out features on Sounds of Nature below!    
 
 
   
-[KFVS-12 - Volunteers needed for 'Sounds of Nature' Project](https://www.kfvs12.com/2022/05/06/volunteers-needed-sounds-nature-project/)    
+[KFVS-12 - Volunteers needed for 'Sounds of Nature' Project](https://www.kfvs12.com/2022/05/06/volunteers-needed-sounds-nature-project/)   
+
+{{< figure src="kfvs.jpg" caption="Dr. Brent Pease on KFVS-12 discussing Sounds of Nature" >}}
   
 [SIU News - SIU Researcher Enlists citizen scientists to help track sounds of biodiversity](https://news.siu.edu/2022/04/042922-SIU-researcher-enlists-citizen-scientists-to-help-track-sounds-of-biodiversity.php)    
   
