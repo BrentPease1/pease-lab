@@ -1,7 +1,7 @@
 ---
-  # An instance of the Blank widget.
-  # Documentation: https://wowchemy.com/docs/page-builder/
-  widget: blank
+# An instance of the Blank widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: blank
 
 # This file represents a page section.
 headless: true
@@ -13,7 +13,7 @@ weight: 3
 title: "Background"
 
 # Section subtitle
-subtitle: "Learn More About Sounds of Nature"
+subtitle: "Learn More Our Project"
 
 # Section design
 design:
@@ -21,7 +21,8 @@ design:
   columns: "1"
 
 ---
-
+    
+    
 ### Overview    
 
 Sound is everywhere around us. Whether we are in the woods or in a city center, all landscapes have sounds that vary throughout the day, everyday of the year. Natural landscapes are often dominated by sounds of living organisms – frogs, insects, birds, even mammals – but we also hear the quiet, background noises – flowing streams, trees swaying in the wind. In other environments, we hear the hissing of garbage trucks, sirens from emergency vehicles, and children laughing and playing in parks. Together, the sounds emanating from each environment produce a unique “**soundscape**”.    
