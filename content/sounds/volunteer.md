@@ -42,9 +42,3 @@ Thank you for participating in Sounds of Nature. Did you receive an AudioMoth in
 {{% staticref "uploads/Sounds of Nature Deployment Datasheet.pdf" "newtab" %}}Sounds of Nature - Field Datasheet{{% /staticref %}}     
 
 Additional resources are available if you need assistance with any aspect of volunteering - please [contact us](https://peaselab.com/contact).
-
-----     
-----     
-----     
-
-[Top of the Page](https://peaselab.com/sounds)

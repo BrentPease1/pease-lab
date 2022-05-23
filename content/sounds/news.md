@@ -13,7 +13,7 @@ weight: 3
 title: "In the News"
 
 # Section subtitle
-subtitle: ""
+subtitle: "In the News"
 
 # Section design
 design:
@@ -23,7 +23,7 @@ design:
 ---
   
   
-  ## Media Coverage for Sounds of Nature
+## Media Coverage for Sounds of Nature
   
   [KFVS-12 - Volunteers needed for 'Sounds of Nature' Project](https://www.kfvs12.com/2022/05/06/volunteers-needed-sounds-nature-project/)    
   
