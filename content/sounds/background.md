@@ -13,7 +13,7 @@ weight: 3
 title: "Background"
 
 # Section subtitle
-subtitle: "Learn More Our Project"
+subtitle: "Learn More About Our Project"
 
 # Section design
 design:
