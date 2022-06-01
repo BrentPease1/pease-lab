@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Elaine Metz
+title: Kelly Crandall
 
 # Username (this should match the folder name)
 authors:
-- laineymetz
+- kellycrandall
 
 # Is this the primary user of the site?
 superuser: false
@@ -23,19 +23,19 @@ organizations:
   url: https://coas.siu.edu/forestry/ 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Elaine Metz is a Graduate Research Assistant in the Forestry Program at Southern Illinois University.
+bio: Kelly Crandall is a Graduate Research Assistant in the Forestry Program at Southern Illinois University.
 
 # Interests to show in About widget
 interests:
-- Avian Ecology
-- Bioacoustics
+- Carnivore Ecology
+- Movement Ecology
 
 # Education to show in About widget
 education:
   courses:
-  - course: BSc in Biology
-    institution: Hollins University, Roanoke, Virginia, USA
-    year: 2019
+  - course: BSc in Animal Science
+    institution: Cornell University, Ithaca, New York, USA
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:elaine.metz1@siu.edu"
+  link: "mailto:kelly.crandall1@siu.edu"
 
 
 
@@ -62,7 +62,7 @@ email: ""
 highlight_name: false
 ---
 
-Elaine is a master’s student studying nightjars in Southern Illinois. Her project will use passive acoustic monitoring to investigate nocturnal bird species like the Eastern Whip-poor-will and the Chuck-will's-widow. In her free time, she loves to backpack, paddleboard, and cultivate orchids.
+Kelly is a master's student looking at how urbanization, invasive predators, and disease dynamics are affecting mesopredator populations on Key Largo, FL. Her project utilizes GPS collars and spatial analyses to study the impacts of these variables on raccoon and opossum ecology. When not looking at GPS points, you can find Kelly birding in the woods, watching movies with friends, cross country skiing, or salsa dancing
 
 
 
