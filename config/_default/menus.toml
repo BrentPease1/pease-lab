@@ -53,21 +53,9 @@
   identifier = "sounds"
   url = "sounds/"
   weight = 70
-
-[[main]]
-  name = "Other"
-  identifier = "other"
-  url = "other/"
-  weight = 80
-
-[[main]]
-  name = "Saluki BioBlitz"
-  parent = "other"
-  url = "other/saluki_bioblitz/saluki_bioblitz"
-  weight = 1
   
 [[main]]
-  name = "Publication Data"
-  parent = "other"
-  url = "other/publication_data/publication_data"
-  weight = 2
+  name = "Saluki BioBlitz"
+  identifier = "bioblitz"
+  url = "bioblitz/"
+  weight = 80
