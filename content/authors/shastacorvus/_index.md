@@ -13,7 +13,7 @@ user_groups:
 - Lab Members
 
 # Role/position/tagline
-role: Graduate Research Assistant
+role: MS Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
