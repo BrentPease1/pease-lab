@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:elaine.metz1@siu.edu"
+  link: "mailto:elaine.metz@siu.edu"
 
 
 

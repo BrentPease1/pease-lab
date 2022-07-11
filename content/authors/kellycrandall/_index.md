@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:kelly.crandall1@siu.edu"
+  link: "mailto:kelly.crandall@siu.edu"
 
 
 
