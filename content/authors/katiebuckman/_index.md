@@ -18,11 +18,12 @@ role: PhD Student
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Southern Illinois University
-  url: https://www.siu.edu/
+  url: https://www.siu.edu/    
 - name: Cooperative Wildlife Research Laboratory
-  url: https://wildlife.siu.edu/ 
+  url: https://wildlife.siu.edu/     
 - name: Forestry Program
-  url: https://coas.siu.edu/forestry/ 
+  url: https://coas.siu.edu/forestry/     
+  
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -33,17 +34,17 @@ interests:
 - Animal Demographics
 - Spatial Ecology
 - Mammalogy and Herpotology
-- Habitat Management
+- Habitat Management    
 
 # Education to show in About widget
 education:
   courses:
   - course: MSc in Environmental Sciences
     institution: Florida Atlantic University, Davie, Florida, USA
-    year: 2021
+    year: 2021    
 - course: BSc in Wildlife Ecology and Conservation
     institution: University of Florida, Gainsville, Florida, USA
-    year: 2019
+    year: 2019    
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
