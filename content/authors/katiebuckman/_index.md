@@ -42,7 +42,7 @@ education:
   - course: MSc in Environmental Sciences
     institution: Florida Atlantic University, Davie, Florida, USA
     year: 2021    
-- course: BSc in Wildlife Ecology and Conservation
+  - course: BSc in Wildlife Ecology and Conservation
     institution: University of Florida, Gainsville, Florida, USA
     year: 2019    
 
