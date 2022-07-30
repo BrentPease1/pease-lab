@@ -2,6 +2,8 @@
 title: "Past Positions"
 share: false # Show social sharing links?
 ---
+
+There are currently no openings in the lab. New openings will be posted here and on the Texas A&M job board.
 ## **MS Graduate Assistantship – Occupancy Dynamics of Swamp Rabbits: southern Illinois**    
 
 *Start Date:* August 22, 2022    
