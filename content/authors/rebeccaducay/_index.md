@@ -34,7 +34,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: BSc in Integrative Ecology
+  - course: BSc in Integrative Biology
     institution: University of Illinois, Urbana-Champaign, Illinois, USA
     year: 2022
 
