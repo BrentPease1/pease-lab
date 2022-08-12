@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Kelsee Dodd
+title: Rebecca Ducay
 
 # Username (this should match the folder name)
 authors:
-- kelseedodd
+- rebeccaducay
 
 # Is this the primary user of the site?
 superuser: false
@@ -13,28 +13,30 @@ user_groups:
 - Lab Members
 
 # Role/position/tagline
-role: Undergraduate Research Assistant
+role: MS Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Southern Illinois University
   url: https://www.siu.edu/
-- name: SI Bridges to Baccalaureate Program
-  url: https://sibridges.siu.edu/
+- name: Forestry Program
+  url: https://coas.siu.edu/forestry/ 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Kelsee Dodd is an undergraduate student studying black bear ecology.
+bio: Rebecca Ducay is a Graduate Research Assistant in the Forestry Program at Southern Illinois University.
 
 # Interests to show in About widget
 interests:
-- Carnivore Ecology
+- Avian Ecology
+- Restoration Ecology    
+- Wildlife Conservation
 
 # Education to show in About widget
 education:
   courses:
-  - course: AA in General Studies (In Progress); SIU, Fall 2023 (undecided)
-    institution: John A. Logan College, Carterville, Illinois, USA
-    year: 
+  - course: BSc in Integrative Ecology
+    institution: University of Illinois, Urbana-Champaign, Illinois, USA
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:kelsee.dodd@siu.edu"
+  link: "mailto:rebecca.ducay@siu.edu"
 
 
 
@@ -61,7 +63,7 @@ email: ""
 highlight_name: false
 ---
 
-Kelsee Dodd is an undergraduate student studying black bear ecology. Her project uses [iNaturalist](https://www.inaturalist.org/) to study the spatial patterns of American black bear coat colors. Kelsee also contributes to our Sounds of Nature project. In her free time, she loves to do wildlife photography and hike. Kelsee joined our lab through the Southern Illinois University Bridges to Baccalaureate program - an NIH funded project supporting science research training and professional development for underserved community college students. To learn more about the SI Bridges program, visit their [website](https://sibridges.siu.edu/).
+Rebecca is a master’s student managing the [Sounds of Nature](peaselab.com/sounds) citizen science project. The project involves the deployment of autonomous recording units (ARUs) across Southern Illinois to better understand bird communities and other soundscape characteristics. Besides research, Rebecca enjoys painting, riding her longboard, and exploring the outdoors.
 
 
 
