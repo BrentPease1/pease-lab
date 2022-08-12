@@ -35,6 +35,11 @@ The Saluki BioBlitz is an annual 24-hour challenge to document biodiversity acro
 
 Save the date for the 2nd annual Saluki BioBlitz! The BioBlitz will be the first friday of the semester, August 26,2022.     
 
+**When**: 8:00am    
+**Where**: Anywhere on SIUC Campus     
+**Group meetup**: 11:00am at [Ralph E. Becker Pavilion](https://goo.gl/maps/frr7G7u6R11Bz8iK7)     
+
+
 ### Event Registration
 [2022 Saluki BioBlitz](https://forms.office.com/Pages/ResponsePage.aspx?id=55h61U10-UO8kQjeH_NxDUMGBwbk2llNsWBKIWoAPu1UNTRVNE1TVUJOOEY5UTk1U003UlpSSTFFVy4u)    
 
