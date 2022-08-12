@@ -28,8 +28,8 @@ bio: Brent Pease is an Assistant Professor in the Forestry Program at Southern I
 # Interests to show in About widget
 interests:
 - Spatial Ecology
-- Landscape Ecology
-- Species Distribution Modeling
+- Citizen Science
+- University Education in Natural Resources
 
 # Education to show in About widget
 education:
