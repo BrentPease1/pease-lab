@@ -14,7 +14,11 @@ subtitle: ''
 
 content:
   # Page type to display. E.g. project.
-  page_type: project
+  page_type: project    
+  content:
+  # Folders to display content from
+  folders:
+  - example
 
 # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
 filter_default: 0
