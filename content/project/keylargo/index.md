@@ -1,22 +1,22 @@
 ---
-  title: Apples Project
-summary: An example of using the in-built project page.
+  title: Key Largo Mesopredators
+summary: A study of mesopredator movement in Key Largo, Florida, USA
 tags:
-  - Deep Learning
+  - 
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Raccoon being released with newly equipped GPS collar
 focal_point: Smart
 
 links:
-  - icon: twitter
-icon_pack: fab
-name: Follow
-url: https://twitter.com/georgecushen
+  - icon: 
+icon_pack: 
+name: 
+url: ''
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -30,12 +30,4 @@ url_video: ''
 slides: example
 ---
   
-  Apples ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
-
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
-
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+  The Key Largo mesopredator project is a collaboration between Southern Illinois University, the North Carolina Museum of Natural Sciences, and the U.S. Fish & Wildlife Service. While historically racoons and opossums are the apex predators on Key Largo, invasive predators such as the Burmese python and feral cats have become a fixture on the landscape in recent years. In other regions of South Florida such as Everglades National Park mesopredators have been almost completely eradicated due to predation by pythons, while the Key Largo mesopredator populations are still relatively robust. The implications of losing the mesopredator population on Key Largo has not been studied previously, and the ecological effects could be wide spread due to their role as native predators as well as seed dispersers. The goals of the project are to see how spatial distribution of raccoons and opossums differ along the urban-wild gradient of the island, quantify population changes over the past decade, look at landscape utilization, and to see if toxoplasmosis spread by cats or other diseases are infecting mesopredators and leading to negative mortality outcomes. These goals will be achieved by affixing GPS collars to raccoons and opossums trapped on Crocodile Lake National Wildlife Refuge to gather spatial data, while also recording road mortality data, analyzing data from long-term camera trap studies placed throughout the refuge, and sampling for toxoplasmosis plus other pathogens. 
