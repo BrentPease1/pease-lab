@@ -8,32 +8,32 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 10
+weight: 0
 
-title: ''
-subtitle: ''
+title: 'Research'
+subtitle: 'Research Projects within the Pease Lab'
 
 content:
   # Page type to display. E.g. project.
   page_type: project
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-  filter_default: 0
+  # filter_default: 0
 
   # Filter toolbar (optional).
   # Add or remove as many filters (`filter_button` instances) as you like.
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
-  filter_button:
-    - name: All
-      tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+  # filter_button:
+  #   - name: All
+  #     tag: '*'
+  #   - name: Machine Learning
+  #     tag: ML
+  #   - name: Computer Vision
+  #     tag: CV
+  #   - name: NLP
+  #     tag: NLP
 
 design:
   columns: '1'
