@@ -43,6 +43,11 @@ Save the date for the 2nd annual Saluki BioBlitz! The BioBlitz will be the first
 ### Event Registration
 [2022 Saluki BioBlitz](https://forms.office.com/Pages/ResponsePage.aspx?id=55h61U10-UO8kQjeH_NxDUMGBwbk2llNsWBKIWoAPu1UNTRVNE1TVUJOOEY5UTk1U003UlpSSTFFVy4u)    
 
+### Parking Passes
+Are you coming from off campus? Great - we can provide temporary parking passes for the day! Please [email Brent Pease](mailto: bpease1@siu.edu) and we will share instructions on how to get yours.    
+
+
+
 ### FAQ
 
 **What is a BioBlitz**: A BioBlitz is an organized challenge to document biodiversity (plants, animals, fungi, etc.) in a specific area over a short period of time, usually 24 hours.    
