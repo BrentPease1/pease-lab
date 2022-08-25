@@ -41,6 +41,10 @@ Save the date for the 2nd annual Saluki BioBlitz! The BioBlitz will be the first
 
 
 ### Event Registration
+
+Please be sure to **join** the [2022 SIU Saluki BioBlitz Project](https://www.inaturalist.org/projects/2022-siu-saluki-bioblitz) on iNaturalist!    
+
+
 [2022 Saluki BioBlitz](https://forms.office.com/Pages/ResponsePage.aspx?id=55h61U10-UO8kQjeH_NxDUMGBwbk2llNsWBKIWoAPu1UNTRVNE1TVUJOOEY5UTk1U003UlpSSTFFVy4u)    
 
 ### Parking Passes
