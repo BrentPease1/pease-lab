@@ -11,7 +11,7 @@ headless: true
 weight: 0
 
 title: 'Research'
-subtitle: 'Research Projects within the Pease Lab'
+subtitle: 'Current Research Projects within the Pease Lab'
 
 content:
   # Page type to display. E.g. project.
