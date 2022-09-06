@@ -1,5 +1,5 @@
 ---
-  title: Nightjar Distribution in southern Illinois
+  title: Nightjar Distribution in Southern Illinois
 summary: An example of using the in-built project page.
 tags:
   - Deep Learning
