@@ -1,22 +1,22 @@
 ---
-  title: Example Project
+  title: Nightjar Distribution in southern Illinois
 summary: An example of using the in-built project page.
 tags:
   - Deep Learning
-date: '2016-04-27T00:00:00Z'
+date: '2022-05-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 
 focal_point: Smart
 
 links:
-  - icon: twitter
+  - icon: 
 icon_pack: fab
-name: Follow
-url: https://twitter.com/georgecushen
+name: 
+url: ''
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -30,12 +30,4 @@ url_video: ''
 slides: example
 ---
   
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
-
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
-
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+The Eastern Whip-poor-will and the Chuck-will’s-widow are two well-camouflaged bird species in the Nightjar family most often recognized by their charismatic calls. In the Illinois Wildlife Action Plan, both species were identified as species of high interest for their long-term decline largely due to reductions in their prey populations (mostly moths and beetles) and habitat loss.  This project, led by MS student [Elaine Metz](https://peaselab.com/author/elaine-metz/), seeks to understand the population dynamics and habitat use of these understudied birds in southern Illinois. As Eastern Whip-poor-will and Chuck-will’s-widow are both sparsely distributed, we used sound recording devices placed at over 150 different locations throughout southern Illinois to detect them. We collected over 2 Terabytes (about half a million minutes) of recordings in the summer months of May to early July 2022. We will analyze the nocturnal recordings for the presence of these birds using machine learning techniques. The goals of this project are to understand occurrence of both species in southern Illinois as it relates to habitat composition and compare this focused survey effort with broader, less targeted designs. Results will be used to inform conservation measures and direct future monitoring programs for both species in southern Illinois. (Photograph copyright: David Hollie | Macaulay Library) 
