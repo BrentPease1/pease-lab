@@ -2,8 +2,8 @@
   title: Beyond the species: using iNaturalist for more than species occurrence records
 summary:
 tags:
-
-date: '2016-04-27T00:00:00Z'
+ - 
+date: '2022-07-31T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -14,7 +14,7 @@ focal_point: Smart
 
 links:
   - icon: 
-icon_pack: fab
+icon_pack: 
 name: 
 url: ''
 url_code: ''
