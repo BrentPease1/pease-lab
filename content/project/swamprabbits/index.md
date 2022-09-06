@@ -1,6 +1,6 @@
 ---
-  title: Example Project
-summary: An example of using the in-built project page.
+  title: Missouri Swamp Rabbit Distribution
+summary: Changes in swamp rabbit distribution through time
 date: '2022-09-06T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
