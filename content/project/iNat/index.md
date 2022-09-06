@@ -1,5 +1,5 @@
 ---
-  title: Beyond the species: using iNaturalist for more than species occurrence records
+  title: Using iNaturalist to assess spatial variation in coat colors
 summary:
 tags:
  - 
