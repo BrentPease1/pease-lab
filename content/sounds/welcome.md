@@ -30,4 +30,4 @@ Sounds of Nature is a community research project to understand changes in biodiv
 1. [2021 Results](#results)    
 2. [Become A Volunteer](#volunteer)    
 3. [Background](#background)    
-4. [Sounds of Nature in the news](#news)    
+4. [Sounds of Nature in the News](#news)    
