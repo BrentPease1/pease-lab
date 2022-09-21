@@ -7,7 +7,7 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 4
+weight: 5
 
 # Section title
 title: "News"
