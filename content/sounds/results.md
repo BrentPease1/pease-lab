@@ -13,7 +13,7 @@ weight: 2
 title: "Results"
 
 # Section subtitle
-subtitle: "Thank you for volunteering with Sounds of Nature"
+subtitle: "Thank you for volunteering with Sounds of Nature!"
 
 # Section design
 design:
@@ -22,11 +22,11 @@ design:
 
 ---    
     
-    
-   
 ## 2021 Field Season    
 
 The 2021 Field Season is over. We had a great first year with the Sounds of Nature project in southern Illinois and are excited to continue to expand and continue listening.     
+    
+{{< figure library="true" src="recording_map_results.png" >}}    
 
 ### Results    
 
