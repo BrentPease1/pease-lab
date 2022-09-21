@@ -10,7 +10,7 @@ headless: true
 weight: 2
 
 # Section title
-title: "Results - 2021"
+title: "Results"
 
 # Section subtitle
 subtitle: "Thank you for volunteering with Sounds of Nature"
