@@ -26,7 +26,7 @@ design:
 
 The 2021 Field Season is over. We had a great first year with the Sounds of Nature project in southern Illinois and are excited to continue to expand and continue listening.     
     
-{{< figure library="true" src="recording_map_results.png" >}}    
+{{< figure library="true" src="recording_map_results.jpg" >}}    
 
 ### Results    
 
