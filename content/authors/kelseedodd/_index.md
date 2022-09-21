@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 user_groups: 
-- Lab Alumni
+- Alumni
 
 # Role/position/tagline
 role: Undergraduate Research Assistant
