@@ -13,7 +13,7 @@ user_groups:
 - Lab Members
 
 # Role/position/tagline
-role: Assistant Professor
+role: Assistant Professor (he/him)
 
 # Organizations/Affiliations to show in About widget
 organizations:
