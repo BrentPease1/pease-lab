@@ -19,7 +19,9 @@ subtitle: "Monitoring Biodiversity Through Soundscapes"
 design:
   # Use a 1-column layout
   columns: "1"
-
+# banner image  
+banner:
+  image: "sounds_header.png"
 ---
 
 {{< figure library="true" src="sounds_nature_logo_AM.png" >}}
