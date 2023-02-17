@@ -32,7 +32,7 @@ header:
   caption: ""
 ---
 
-{{< figure library="true" src="sounds_banner.jpg" resize_options="3500x1750" >}}
+{{< figure library="true" src="sounds_header.jpg" resize_options="3500x1750" >}}
 
 
 Sounds of Nature is a community research project to understand changes in biodiversity over time by studying “**soundscapes**”. Through Sounds of Nature, a team of researchers and citizen scientists are participating in and contributing to a state-wide project to monitor biodiversity in their backyard and beyond. 
