@@ -19,7 +19,7 @@ content:
       content: Studying Biodiversity Through Soundscapes
       align: center
       background:
-        position: right
+        position: center
         color: '#666'
         brightness: 0.7
         media: sounds_banner.jpg
