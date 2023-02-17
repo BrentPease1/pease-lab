@@ -1,23 +1,27 @@
 ---
-  active: true  
-headless: true  
-height: 250px
-interval: false
+widget: slider
+weight: 1
+active: true
+headless: true
 
-item:
-  - title: About the Project
-align: center 
-content: Learn about Sounds of Nature
-overlay_color: '#1f4e74FF' # An HTML color value.
-overlay_filter: 0.0 
-overlay_img: ''   
-- title: Contact
-align: center 
-content: Contact our team
-overlay_color: '#1f4e74FF'
-overlay_filter: 0.0
-overlay_img: ''
+design:
+  # Slide height is automatic unless you force a specific height (e.g. '400px')
+  slide_height: ''
+  is_fullscreen: true
+  # Automatically transition through slides?
+  loop: false
+  # Duration of transition between slides (in ms)
+  interval: 2000
 
-weight: 3
-widget: slider  
+content:
+  slides:
+    - title: Sounds of Nature
+      content: Studying Biodiversity Through Soundscapes
+      align: center
+      background:
+        position: right
+        color: '#666'
+        brightness: 0.7
+        media: sounds_banner.jpg
+
 ---
