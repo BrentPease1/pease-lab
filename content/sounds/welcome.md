@@ -28,7 +28,7 @@ image:
   alt_text: Sounds of Nature logo
   
 header:
-  image: "sounds_banner.jpg"
+  image: "sounds_header.png"
   caption: ""
 ---
 
