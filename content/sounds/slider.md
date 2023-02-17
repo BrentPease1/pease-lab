@@ -3,6 +3,7 @@ widget: slider
 weight: 6
 active: false
 headless: true
+draft: true
 
 design:
   # Slide height is automatic unless you force a specific height (e.g. '400px')
