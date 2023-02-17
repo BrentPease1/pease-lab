@@ -1,31 +1,25 @@
 ---
-# An instance of the Blank widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: blank
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 1
-
 title:
-  subtitle:
-  
-  design:
+  subtitle: null
+  design: null
   columns: '1'
+active: yes
+headless: yes
+weight: 1
+widget: blank
 background:
-  image: sounds_banner.jpg
+  image: coders.jpg
 image_darken: 0
-image_parallax: false
+image_parallax: no
 image_position: center
 image_size: cover
-text_color_light: true
+text_color_light: yes
 spacing:
-  padding: ['20px', '0', '20px', '0']
+  padding:
+  - 20px
+  - '0'
+  - 20px
+  - '0'
 advanced:
   css_class: fullscreen
 ---
