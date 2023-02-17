@@ -20,8 +20,12 @@ design:
   # Use a 1-column layout
   columns: "1"
 
-banner:
-  image: "sounds_banner.png"
+image:
+  placement: 3
+  caption: ""
+  focal_point: "Center"
+  preview_only: false
+  alt_text: Sounds of Nature logo
 ---
 
 {{< figure library="true" src="sounds_header.png" >}}
