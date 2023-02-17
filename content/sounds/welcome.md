@@ -21,7 +21,7 @@ design:
   columns: "1"
 
 banner:
-  image: "sounds_header.png"
+  image: "sounds_banner.png"
 ---
 
 {{< figure library="true" src="sounds_header.png" >}}
