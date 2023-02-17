@@ -32,7 +32,7 @@ header:
   caption: ""
 ---
 
-{{< figure library="true" src="sounds_header.jpg" >}}
+{{< figure library="true" src="sounds_header.png" >}}
 {{< figure library="true" src="sounds_banner.jpg" >}}
 
 
