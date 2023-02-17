@@ -26,6 +26,10 @@ image:
   focal_point: "Center"
   preview_only: false
   alt_text: Sounds of Nature logo
+  
+header:
+  image: "sounds_banner.jpg"
+  caption: ""
 ---
 
 {{< figure library="true" src="sounds_header.png" >}}
