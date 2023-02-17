@@ -1,5 +1,5 @@
 ---
-  widget: slider
+widget: slider
 weight: 1
 active: true
 headless: true
