@@ -3,7 +3,7 @@ title:
   subtitle: null
   design: null
   columns: '1'
-active: yes
+active: no
 headless: yes
 weight: 1
 widget: blank
