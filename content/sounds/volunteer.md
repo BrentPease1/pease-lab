@@ -6,6 +6,9 @@ widget: blank
 # This file represents a page section.
 headless: true
 
+# Should this widget show on page (t/f)
+active: false
+
 # Order that this section appears on the page.
 weight: 3
 
