@@ -1,39 +1,36 @@
 ---
-title: Sounds of Nature
-subtitle: 'Monitoring Biodiversity Through Soundscapes'
+title:
+subtitle: 
 type: landing
 
 sections:
-  - block: collection
-    id: learn
+    - block: hero
     content:
-      title: What is Sounds of Nature?
-      subtitle: ''
-      text: 'Learn how volunteers are working together to discover biodiversity'
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        # The folders to display content from
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        publication_type: ""
-        featured_only: false
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-      # Choose how many pages you would like to offset by
-      # Useful if you wish to show the first item in the Featured widget
-      offset: 0
-      # Field to sort by, such as Date or Title
-      sort_by: 'Date'
-      sort_ascending: false
+      title: Sounds of Nature
+      image:
+        filename: hero-academic.png
+      cta:
+        label: '**Get Started**'
+        url: https://wowchemy.com/templates/
+      cta_alt:
+        label: Ask a question
+        url: https://discord.gg/z8wNYzb
+      cta_note:
+        label: >-
+          <div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Wowchemy Website Builder</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/starter-hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
+      text: |-
+        **Discover Biodiversity Through Sound**
+
+        
+        Join us and other volunteers as we deploy sound recorders across our region to study changes in bird populations and biodiversity over time.
+
+        <!--Custom spacing-->
+        <div class="mb-3"></div>
+        <!--GitHub Button JS-->
+        <script async defer src="https://buttons.github.io/buttons.js"></script>
     design:
-      # Choose a listing view
-      view: compact
-      # Choose single or dual column layout
-      columns: '1'
+      background:
+        gradient_end: '#1976d2'
+        gradient_start: '#004ba0'
+        text_color_light: true
 ---
