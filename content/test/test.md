@@ -1,8 +1,8 @@
 ---
-# Page title
-title: My page
-# Page type - we want a landing page (such as a homepage)
-type: landing
+title: test
+widget: pages
+headless: true
+weight: 30
 
 # Your landing page sections - add as many different content blocks as you like
 sections:
@@ -17,6 +17,7 @@ sections:
       filters:
         folders:
           - post
+    
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
