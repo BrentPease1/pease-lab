@@ -18,7 +18,7 @@ content:
   filters:
     #folders to display content from
     folders:
-      - SoN
+      - ./sounds/SoN
       
   # Page type to display. E.g. project.
   page_type: project
