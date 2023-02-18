@@ -1,18 +1,18 @@
 ---
 widget: slider
 weight: 6
-active: false
+active: true
 headless: true
-draft: true
+draft: false
 
 design:
   # Slide height is automatic unless you force a specific height (e.g. '400px')
-  slide_height: '400px'
+  slide_height: ''
   is_fullscreen: true
   # Automatically transition through slides?
   loop: false
   # Duration of transition between slides (in ms)
-  interval: 2000
+  interval: false
 
 content:
   slides:
@@ -21,5 +21,5 @@ content:
       align: center
       background:
         position: center
-        media: sounds_banner.jpg
+        media: sounds.jpg
 ---
