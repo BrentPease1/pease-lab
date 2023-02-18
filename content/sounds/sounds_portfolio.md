@@ -18,7 +18,7 @@ content:
   filters:
     #folders to display content from
     folders:
-      - SoN
+      - volunteer
     # tags to include
     tags:
       - SoN
