@@ -4,7 +4,7 @@ type: landing
 
 # Your landing page sections - add as many different content blocks as you like
 sections:
-  - block: markdown
+  - block: hero
     id: section-1
     content:
       title: Section 1
