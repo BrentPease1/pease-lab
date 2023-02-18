@@ -1,6 +1,7 @@
 ---
 title: Goodbye!
 type: landing
+---
 
 # Your landing page sections - add as many different content blocks as you like
 sections:
@@ -16,4 +17,3 @@ sections:
       title: Section 2
       subtitle: A subtitle
       text: Add your Section 2 content here...
----
