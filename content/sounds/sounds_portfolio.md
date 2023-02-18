@@ -18,7 +18,10 @@ content:
   filters:
     #folders to display content from
     folders:
-      - ./sounds/SoN
+      - SoN
+    # tags to include
+    tags:
+      - SoN
       
   # Page type to display. E.g. project.
   page_type: project

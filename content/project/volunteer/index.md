@@ -1,8 +1,8 @@
 ---
-  title: North-Central Illinois Bobcat Population Ecology
-summary: An example of using the in-built project page.
+  title: Join us!
+summary: 
 tags:
-  - 
+  - SoN
 date: '2022-08-25T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
