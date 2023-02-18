@@ -1,15 +1,19 @@
 ---
-title: My page
+title: Hello!
 type: landing
 
+# Your landing page sections - add as many different content blocks as you like
 sections:
   - block: markdown
+    id: section-1
     content:
-      title: My title
-      subtitle: My subtitle
+      title: Section 1
+      subtitle: A subtitle
       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-    design:
-      # See Page Builder docs for all section customization options.
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+  - block: markdown
+    id: section-2
+    content:
+      title: Section 2
+      subtitle: A subtitle
+      text: Add your Section 2 content here...
 ---
