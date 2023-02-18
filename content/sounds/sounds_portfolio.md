@@ -18,10 +18,10 @@ content:
   filters:
     #folders to display content from
     folders:
-      - volunteer
+      -volunteer
     # tags to include
     tags:
-      - SoN
+      -SoN
       
   # Page type to display. E.g. project.
   page_type: project
