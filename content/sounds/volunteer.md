@@ -7,7 +7,7 @@ widget: blank
 headless: true
 
 # Should this widget show on page (t/f)
-active: false
+active: true
 
 # Order that this section appears on the page.
 weight: 3
