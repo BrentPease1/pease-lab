@@ -1,6 +1,6 @@
 ---
 title: Sounds of Nature
-subtitle: Monitoring Biodiversity Through Soundscapes
+subtitle: 'Monitoring Biodiversity Through Soundscapes'
 type: landing
 
 sections:
@@ -9,7 +9,7 @@ sections:
     content:
       title: What is Sounds of Nature?
       subtitle: ''
-      text: 'Check out my recent blog posts below!'
+      text: 'Learn how volunteers are working together to discover biodiversity'
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
