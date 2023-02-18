@@ -2,8 +2,11 @@
 active: true
 weight: 1
 headless: true
-widget: hero
 
+# Remove the `widget` parameter
+# widget: hero
+
+# Indent the `block: hero` section one level further
 sections:
   - block: hero
     content:
@@ -40,7 +43,4 @@ sections:
     design:
       # Choose an optional background color, gradient, image, or video
       background:
-        gradient_end: '#1976d2'
-        gradient_start: '#004ba0'
-        text_color_light: true
----
+        gradient_end
