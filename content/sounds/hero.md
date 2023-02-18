@@ -2,6 +2,7 @@
 active: true
 weight: 1
 headless: true
+widget: hero
 
 sections:
   - block: hero
