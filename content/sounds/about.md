@@ -4,7 +4,7 @@
 widget: blank
 
 # This file represents a page section.
-headless: true
+headless: false
 
 # Should this widget show on page (t/f)
 active: true
