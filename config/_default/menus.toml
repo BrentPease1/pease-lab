@@ -61,6 +61,12 @@
   weight = 80
   
 [[main]]
+  name = "About"
+  parent = "sounds"
+  url = "sounds/about"
+  weight = 1
+  
+[[main]]
   name = "Saluki BioBlitz"
   identifier = "bioblitz"
   url = "bioblitz/"
