@@ -32,7 +32,3 @@ banner:
 
 <p style="text-align: center;">Sounds of Nature is a community research project to understand changes in biodiversity over time by studying *soundscapes*. Through Sounds of Nature, a team of researchers and citizen scientists are participating in and contributing to a state-wide project to monitor biodiversity in their backyard and beyond.</p>
 
-1. [2022 Results](#results)    
-2. [Become A Volunteer](#volunteer)    
-3. [Background](#background)    
-4. [Sounds of Nature in the News](#news)    

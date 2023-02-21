@@ -34,7 +34,7 @@ Interested in participating in our project and hosting an acoustic recorder on y
 
 <br/><br/>
 
-  {{% cta cta_link="https://peaselab.com/sounds/" cta_text="Return to Sounds of Nature" %}}
+<p style="text-align: center;">   {{% cta cta_link="https://peaselab.com/sounds/" cta_text="Return to Sounds of Nature" %}} </p>
   
 
 ## Current Volunteers    
