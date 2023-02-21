@@ -13,10 +13,10 @@ active: true
 weight: 4
 
 # Section title
-title: ""
+title: "About Sounds of Nature"
 
 # Section subtitle
-subtitle: ""
+subtitle: "Learn about the science behind sound"
 
 # Section design
 design:
