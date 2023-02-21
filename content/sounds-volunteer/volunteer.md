@@ -25,12 +25,13 @@ design:
 
 ---
 
+{{< figure library="true" src="recording_map.jpg" >}} 
 
 ## Become a Volunteer  
 
 Interested in participating in our project and hosting an acoustic recorder on your property? We’d love to have you join our efforts! Joining the project is simple - submit an application below and we'll get a recorder headed your way in the mail.
 
-{{< figure library="true" src="recording_map_results.jpg" >}} 
+
   
 <p style="text-align: center;"> <iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=55h61U10-UO8kQjeH_NxDUMGBwbk2llNsWBKIWoAPu1UNlY5TEpLWjUwNUVLMzRGVzE3MFlWWFpZOC4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe> </p>    
 
