@@ -23,22 +23,11 @@ design:
   # Use a 1-column layout
   columns: "1"
 
-image:
-  placement: 3
-  caption: ""
-  focal_point: "Center"
-  preview_only: false
-  alt_text: Sounds of Nature logo
-  
-header:
-  image: "sounds_header.png"
-  caption: ""
 ---
 
 {{< figure library="true" src="sounds_header.png" >}}
 
-
-Sounds of Nature is a community research project to understand changes in biodiversity over time by studying “**soundscapes**”. Through Sounds of Nature, a team of researchers and citizen scientists are participating in and contributing to a state-wide project to monitor biodiversity in their backyard and beyond. 
+<p style="text-align: center;">Sounds of Nature is a community research project to understand changes in biodiversity over time by studying “**soundscapes**”. Through Sounds of Nature, a team of researchers and citizen scientists are participating in and contributing to a state-wide project to monitor biodiversity in their backyard and beyond.</p>
 
 1. [2022 Results](#results)    
 2. [Become A Volunteer](#volunteer)    
