@@ -62,7 +62,7 @@
   
 [[main]]
   name = "About"
-  parent = "sounds"
+  parent = "Sounds of Nature"
   url = "sounds/about"
   weight = 1
   
