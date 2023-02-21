@@ -56,15 +56,9 @@
 
 [[main]]
   name = "Sounds of Nature"
-  identifier = "welcome"
   url = "sounds"
   weight = 80
   
-[[main]]
-  name = "About"
-  parent = "Sounds of Nature"
-  url = "sounds/about"
-  weight = 1
   
 [[main]]
   name = "Saluki BioBlitz"
