@@ -1,7 +1,7 @@
 ---
 widget: slider
 weight: 6
-active: false
+active: true
 headless: true
 draft: false
 
@@ -17,9 +17,9 @@ design:
 content:
   slides:
     - title: Sounds of Nature
-      content: Studying Biodiversity Through Soundscapes
+      content: Discover Biodiversity Through Sound
       align: center
       background:
         position: center
-        media: sounds.jpg
+        media: sounds_banner.jpg
 ---
