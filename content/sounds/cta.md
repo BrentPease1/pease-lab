@@ -8,4 +8,4 @@ design:
   columns: '1'
 ---
 
-{{% cta cta_link="./sounds/background" cta_text="Learn More" %}}
+{{% cta cta_link="./background" cta_text="Learn More" %}}
