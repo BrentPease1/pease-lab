@@ -23,6 +23,9 @@ design:
   # Use a 1-column layout
   columns: "1"
 
+banner:
+  image: "sounds_banner.jpg"
+  caption: ""
 ---
 
 {{< figure library="true" src="sounds_banner.jpg">}}
