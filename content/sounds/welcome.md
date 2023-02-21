@@ -36,5 +36,3 @@ banner:
 2. [Become A Volunteer](#volunteer)    
 3. [Background](#background)    
 4. [Sounds of Nature in the News](#news)    
-
-{{< cta cta_text="Learn More" cta_link="sounds/results" cta_new_tab="true" >}}
