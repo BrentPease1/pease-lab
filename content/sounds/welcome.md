@@ -25,7 +25,7 @@ design:
 
 ---
 
-{{< figure library="true" src="sounds_header.png" width="800px" height="200px">}}
+{{< figure library="true" src="sounds_banner.jpg" width="800px" height="200px">}}
 
 <p style="text-align: center;">Sounds of Nature is a community research project to understand changes in biodiversity over time by studying *soundscapes*. Through Sounds of Nature, a team of researchers and citizen scientists are participating in and contributing to a state-wide project to monitor biodiversity in their backyard and beyond.</p>
 
