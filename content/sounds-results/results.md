@@ -37,4 +37,8 @@ Sounds of Nature Recording Results can be viewed [here](https://soundsofnature.s
 
 
 #### Questions? Ideas? We want to hear from you!    
-Please reach out to the Sounds of Nature project Manager, [Rebecca Ducay](https://peaselab.com/author/rebecca-ducay/).    
+Please reach out to the Sounds of Nature project Manager, [Rebecca Ducay](https://peaselab.com/author/rebecca-ducay/). 
+
+</br>
+
+{{% cta cta_link="https://peaselab.com/sounds/" cta_text="Return to Sounds of Nature" %}}

@@ -13,6 +13,3 @@ design:
 {{% cta cta_link="https://peaselab.com/sounds-volunteer/" cta_text="Join our Team!" %}}
 
 {{% cta cta_link="https://peaselab.com/sounds-results/" cta_text="Check out our Results" %}}
-
-| {{% cta cta_link="https://peaselab.com/sounds-about/" cta_text="Learn More" %}} | {{% cta cta_link="https://peaselab.com/sounds-volunteer/" cta_text="Join our Team!" %}} | {{% cta cta_link="https://peaselab.com/sounds-results/" cta_text="Check out our Results" %}} |
-|---------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
