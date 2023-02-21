@@ -46,3 +46,4 @@ In Sounds of Nature, we are using innovative monitoring of soundscapes combined 
   {{< video library="true" src="whip-long.mp4" controls="yes" caption="An audio recording and spectrogram of an Eastern Whip-poor-will in southern Illinois" >}}    
   
   {{% cta cta_link="https://peaselab.com/sounds/" cta_text="Back to Sounds of Nature" %}}
+  
