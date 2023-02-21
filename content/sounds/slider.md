@@ -1,8 +1,8 @@
 ---
 widget: slider
-weight: 6
-active: false
-headless: true
+weight: 2
+active: true
+headless: false
 draft: false
 
 design:
@@ -12,7 +12,7 @@ design:
   # Automatically transition through slides?
   loop: false
   # Duration of transition between slides (in ms)
-  interval: false
+  interval: 200000
 
 content:
   slides:
