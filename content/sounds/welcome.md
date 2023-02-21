@@ -16,7 +16,7 @@ weight: 1
 title: "Sounds of Nature"
 
 # Section subtitle
-subtitle: "Monitoring Biodiversity Through Soundscapes"
+subtitle: "Discovery Biodiversity Through Sound"
 
 # Section design
 design:
