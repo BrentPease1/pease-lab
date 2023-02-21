@@ -5,7 +5,7 @@ widget: blank
 headless: true
 weight: 70
 design:
-  columns: '1'
+  columns: '2'
 ---
 
-{{% cta cta_link="./background" cta_text="Learn More" %}}
+{{% cta cta_link="./about" cta_text="Learn More" %}}
