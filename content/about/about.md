@@ -4,7 +4,7 @@
 widget: blank
 
 # This file represents a page section.
-headless: true
+headless: false
 
 # Should this widget show on page (t/f)
 active: true
@@ -13,10 +13,10 @@ active: true
 weight: 4
 
 # Section title
-title: "Background"
+title: ""
 
 # Section subtitle
-subtitle: "Learn More About Our Project"
+subtitle: ""
 
 # Section design
 design:
