@@ -1,6 +1,6 @@
 ---
-active: false
-weight: 1
+active: true
+weight: 4
 headless: true
 
 # Remove the `widget` parameter
