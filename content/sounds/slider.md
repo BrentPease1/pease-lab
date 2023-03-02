@@ -1,25 +1,27 @@
 ---
 widget: slider
-weight: 6
+weight: 2
 active: false
-headless: true
-draft: false
+headless: true # This file represents a page section (true) or a homepage (false).
+draft: true
 
 design:
   # Slide height is automatic unless you force a specific height (e.g. '400px')
-  slide_height: ''
-  is_fullscreen: true
+  slide_height: '400px'
+  is_fullscreen: false
   # Automatically transition through slides?
   loop: false
   # Duration of transition between slides (in ms)
-  interval: false
+  interval: 200000
 
 content:
   slides:
     - title: Sounds of Nature
       content: Discover Biodiversity Through Sound
-      align: center
+      align: left
       background:
-        position: center
+        position: right
+        color: '#666'
+        brightness: 0.7
         media: sounds_banner.jpg
 ---
